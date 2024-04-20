@@ -23,7 +23,7 @@ const PotCard = () => {
     lotteryHistory,
     pickWinner,
   }=useAppContext();
-  console.log(canClaim,"CLAIM STTUS")
+  console.log(canClaim,"CLAIM STATUS")
 
 
   // Static Functions 
